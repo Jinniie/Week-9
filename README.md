@@ -12,4 +12,11 @@ As you see above, everytime somebody tries to use the 4444 port, it shows the in
 
 
 install mhn
+
+$ cd /opt/
+$ sudo git clone https://github.com/threatstream/mhn.git
+$ cd mhn/
+Change config to different usernames and passwords.
 After this, connect ubuntu with mhn using the Ip address or hostname "local host"
+![image](https://user-images.githubusercontent.com/31251224/32201495-c7e2aeca-bdad-11e7-87ca-595e7fec7ddb.png)
+now, instead of the ip address showing up in terminal, it is visible to the host website.
